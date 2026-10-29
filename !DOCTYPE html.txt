@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<head>
+ <title>Animales nativos de Antartida</title>
+</head>
+<body>
+ <h1 style="color: blue;">Antartida</h1>
+ <img src="https://tse4.mm.bing.net/th/id/OIP.DHexUHypUmtlVkwM74237AHaEW?r=0&pid=Api&h=220&P=0"alt="Imagen de la bandera" width="250" height"225">
+ <img src="https://i.pinimg.com/originals/bf/5c/7a/bf5c7aae5079110e190452f6bcd1bc0a.jpg"alt="Imagen del mapa" width="250" height"225">
+ 
+ <p style="font-size: 15px;">Antartida se ubica en el extremo más austral del planeta, situada completamente en el hemisferio sur  y centrada de forma aproximada
+    alrededor del Polo Sur geográfico. No tiene población fija ni residentes permanentes, pero su cantidad de habitantes temporal varía entre
+    4,000 y 5,000 personas en verano y unas 1,000 personas en invierno. Es el continente más austral, frío, seco y ventoso de la Tierra,
+    con el 98 % de su superficie cubierta por hielo.</p>
+ <hr>
+ <h2 sytle="color: #7df9ff; font-size: 80px;">Pingüino emperador</h2>
+ <img src="https://static.nationalgeographicla.com/files/styles/image_3200/public/nationalgeographic_1528132.jpg?w=1900&h=1267" alt="Pingüino emperador" width="250" height="225">
+ <p>El pingüino emperador (Aptenodytes forsteri) es el pingüino más grande del mundo y una especie endémica y exclusiva de la Antártida. Tambien está en peligro de extinción.
+    La dependencia absoluta que el pingüino emperador mantiene con el hielo marino lo convierte en un organismo extremadamente vulnerable a las variaciones térmicas del océano. 
+     Estas aves utilizan la superficie helada como base estable para desarrollar sus rituales de apareamiento, realizar la incubación de los huevos y asegurar la crianza de sus polluelos.
+     Si el hielo se fragmenta prematuramente, las crías no logran desarrollar el plumaje necesario para resistir el agua fría y perecen masivamente.</p>
+ <a href="https://www.nationalgeographic.com.es/mundo-animal/es-oficial-pinguino-emperador-antartida-esta-peligro-extincion_28110">Ver más información sobre el Pingüino emperador</a>
+ 
+ <hr>
+ <h2 style="color: #7ed8fa; font-size: 80px;">Foca de Weddell</h2>
+ <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQW2-XV8XL5gcbIkFYVYjwAojhMg-K7Bhnymt0WQ4ypiYFNyEmg9LnMi_7n&s=10" alt="Foca de Weddell" width="250" height"225">
+ <p>Una foca de weddell mide 2,5 a 3,5 metros y pesa de 400 a 600kg.Su estado de conservación es de preocupación menor. Las Focas de Weddell pueden permanecer sumergidas hasta 80 minutos seguidos. 
+    Estas inmersiones prolongadas son tanto para alimentarse como para encontrar nuevos agujeros para respirar en el hielo. Pueden sumergirse más de 600 metros. Ellos se alimentan de Peces, 
+    crustáceos, krill, calamares, gambas, cefalópodos, pingüinos y de otras focas.</p>
+ <a href="https://oceanwide-expeditions.com/es/destacados/vida-silvestre/foca-de-weddell?srsltid=AU7gw4WgGb4g-5fYR86NqDlQRpl0MuuwtMiNFAHeXAcU-7DbqwoyRf4S">Ver más información sobre la Foca de Weddell</a>
+ 
+ <hr>
+ <h2 style="color: #50b6fe; font-size: 80px;">Orca</h2>
+ <img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/JumpingOrca.jpg?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original" alt="Orca" width="250" height"225">
+ <p>Las orcas son miembros muy sociables e inteligentes de la familia de los delfines Delphinidae.Las orcas son una de las especies de ballenas más reconocibles.
+    Tienen un gran cuerpo negro, vientre blanco y una mancha de agua por encima y detrás de los ojos. También tienen una mancha gris detrás de las aletas dorsales.
+     Las orcas hembras, en cambio, son un 20% más bajas y tienen aletas dorsales curvadas que miden menos de la mitad que los machos. A pesar de su tamaño,
+     las orcas también son nadadoras rápidas, y se han observado a velocidades de 54 kph (33,6 mph).Aunque son mamíferos marinos dentados, las Orcas pertenecen técnicamente a la familia de los delfines oceánicos.
+      Las orcas son los miembros más grandes de esa familia y uno de los depredadores más poderosos del mundo, alimentándose de focas, leones marinos e incluso otras ballenas.</p>
+ <a href="https://oceanwide-expeditions.com/es/blog/orcas-de-la-antartida-y-el-subantartico?srsltid=AU7gw4UNbFbdmCvc4N-AssGaeQJh2pjwJGvtCUcZs9QL_DO3AwS_rWN1">Ver más información sobre las Orcas</a>
+</body>
+</html>
+ 
